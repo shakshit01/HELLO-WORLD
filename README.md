@@ -1,2 +1,2 @@
 # HELLO-WORLD
-This is about making of hello world program
+this is what i made
